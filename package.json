@@ -1,5 +1,5 @@
 {
-  "name": "cicd_playwright",
+  "name": "cicd_playwright1",
   "version": "1.0.0",
   "description": "CICD exploration with Playwright per Udemy course Gen AI for QA",
   "main": "index.js",
