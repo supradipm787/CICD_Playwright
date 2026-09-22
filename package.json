@@ -1,0 +1,25 @@
+{
+  "name": "cicd_playwright",
+  "version": "1.0.0",
+  "description": "CICD exploration with Playwright per Udemy course Gen AI for QA",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supradipm787/CICD_Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/supradipm787/CICD_Playwright/issues"
+  },
+  "homepage": "https://github.com/supradipm787/CICD_Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.2"
+  }
+}
